@@ -1,7 +1,7 @@
-NS = uktrade
+NS = cashu
 NAME = xmlsec1
 INSTANCE = default
-VERSION ?= 1.2.24
+VERSION ?= 1.2.30
 
 .PHONY: build shell rm build release rmi
 
